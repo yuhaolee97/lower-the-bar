@@ -70,9 +70,7 @@ export const Audio = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>Audio Transmission</h2>
           <p>Simply speak your situation, and we will do the rest.</p>
-          {/* <h3>
-            Disclaimer: This feature may not be supported for your browser. We will support all browsers when this app is scaled.
-          </h3> */}
+
           <p>
             Microphone: {listening ? 'on' : 'off'}
           </p>

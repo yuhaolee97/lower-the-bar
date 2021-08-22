@@ -1,5 +1,11 @@
 
-# Lower-the-bar
+# Lower The Bar
+
+Champions of SMU LIT Hackathon 2021
+
+Done by: Lee Yu Hao, Aw Khai Loong, Galen Ong, Natalia Mai, Ezra Lim
+
+# Description
 
 
 Navigating the legal system today can be an incredibly daunting task for the average person on the street. LowerTheBar aims to address these issues and increase access to justice. 
@@ -11,5 +17,27 @@ Once the questions are answered, the applicant will be presented with lawyers th
 This system also can be used in collaboration with volunteer lawyers. Applicants will use LowerTheBar before visiting the legal clinic. After the consultation, the volunteer lawyers will then be given access to a) edit the specific area of the law the claims fall under and b) add details about the client in the transcript. 
 
 LowerTheBar is a novel and unique solution that leverages on speech recognition, deep learning and an AR experience to provide applicants with the most seamless, accurate and immersive experience in finding an appropriate lawyer.
+
+# Frontend
+
+Simply run a npm install, then do a npm start
+
+# Backend
+
+# lit-flask
+
+This is the Flask code for deploying the deep learning model as a prediction API for the SMU-LIT Hackathon 2021.
+
+Setup your virtual environment using requirements.txt. The relevant code for the app is in app.py.
+
+# lit-deep-learning
+
+This is the deep learning code for the SMU-LIT Hackathon 2021.
+
+We train a deep learning model using lit_deep_learning_final_training.ipynb, which outputs saved_model and tokenizer.pickle
+
+
+
+
 
 
