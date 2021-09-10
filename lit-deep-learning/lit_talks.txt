@@ -1,0 +1,32 @@
+Problem: How bring legal research into 21st century
+Usual workflow: go to LawNet, search some stuff, string together info
+Pain points
+    1. Individual research workflow is inefficient
+    2. Collaboration of legal research is difficult
+    3. Knowledge retention and sharing
+
+Tips
+    - don't just focus on technical aspects
+1. Validate your pain points and solution
+    check with actual lawyers 
+2. Perfect is the enemy of good - focus on key points
+3. Sell the vision
+    what looks good is not the final thing
+    need to go beyond that and get the judge to see beyond what we created
+    long-term roadmap + hide blemishes in current product bec not perfect
+        they said tagging stuff makes it possible to use ML in the future
+
+Q&A
+1. Pitch & What the budges are looking for? Grill like a moot?
+    Judges there to understand soln, not to see if handle pressure
+    Asking qns cuz they are curious abt your soln
+
+    Too innovative? 
+        AI assistant writing documents and doing research. Got grilled presenting soln that was not really feasible, just screenshots without actl impl. If don't have the technology behind.
+    
+    If they ask qns it's cuz they are interested
+
+2. Must it be implemented immediately?
+    Definitely produce something working, even if not perfect. Easier to get vision and idea across. If you just have a flow on ppt, harder to see what you want to show. If have interface, let them experience the benefits you tout
+
+    Even if ugly, as long as works. 

@@ -1,0 +1,25 @@
+Problems
+    A. Volunteer Lawyers not allowed to recommend, independently find lawyers
+    B. Restrictions / Limitations in seeing volunteer lawyers, waiting time
+    C. AsiaLawNetwork is unapproachable and initimidating
+
+Solutions / Unique Parts
+    A. Recommender system for lawyers
+    B. Needy can use our app if they dont qualify for volunteer lawyers
+    C. Our app simulates an accessible, friendly
+
+Unique parts to emphasize
+    A. "LowerTheBar" to simulate accessible
+        A1. AR => simulate exp
+        A2. User can directly speak or write in layman terms and we can interpret what he is saying, 
+            instead of having to fill up form (Speech recognition -> NLP)
+    B. 
+
+THings to do
+    1. Front-end framework & find a template (React Native & ReactJS)
+    2. AR / VR => need to integrate
+    3. NLP => create the diagram and be confident about the data etc
+    4. Form questions
+        if able to get the info needed => no need questions
+        otherwise, ask follow-up questions
+    5. Evidence to show that AR/VR will make people open up more. 
